@@ -73,6 +73,7 @@
  ((:path . "english") (:content . "TSNLP English Test Suite"))
  ((:path . "csli") (:content . "CSLI (HP) Test Suite"))
  ((:path . "mrs") (:content . "DELPH-IN MRS Test Suite"))
+ ((:path . "mrs_sg") (:content . "DELPH-IN MRS Test Suite for Singlish"))
  ((:path . "esd") (:content . "ERG Semantic Documentation Test Suite"))
  ((:path . "cb") (:content . "The Cathedral and the Bazaar"))
  ((:path . "trec") (:content . "TREC QA Questions (Ninth Conference)"))
