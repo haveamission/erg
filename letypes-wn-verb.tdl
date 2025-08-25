@@ -418,6 +418,7 @@ v_np-adv_cre_le := v_np-adv_lexent.
 v_np-adv_dpl_le := v_np-adv_lexent.
 v_np-adv_han_le := v_np-adv_lexent.
 v_np-adv_int_le := v_np-adv_lexent.
+v_np-adv_kno_le := v_np-adv_lexent.
 v_np-adv_mod_le := v_np-adv_lexent.
 v_np-adv_thk_le := v_np-adv_lexent.
 v_np-adv_tra_le := v_np-adv_lexent.

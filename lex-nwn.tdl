@@ -19505,6 +19505,18 @@ god_root_pre := av_-_s-cp-mc-pr_le &
     SYNSEM [ LKEYS.KEYREL.PRED "_god_a_1_rel",
              PHON.ONSET con ] ].
 
+god_help_v1 := v_np_imper-sbj_le &
+  [ ORTH < "God", "help" >,
+    SYNSEM [ LKEYS [ KEYREL.PRED "_help_v_act_rel",
+		     ALTKEYREL.CARG "God" ],
+             PHON.ONSET con ] ].
+
+god_save_v1 := v_np_imper-sbj_le &
+  [ ORTH < "God", "save" >,
+    SYNSEM [ LKEYS [ KEYREL.PRED "_save_v_act_rel",
+		     ALTKEYREL.CARG "God" ],
+             PHON.ONSET con ] ].
+
 goddammit_root_post := av_-_s-cp-nsp-po_le &
   [ ORTH < "goddammit" >,
     SYNSEM [ LKEYS.KEYREL.PRED "_goddammit_a_1_rel",
@@ -30117,6 +30129,12 @@ long_ass_a1 := aj_-_i_le &
 long_before_adv1 := av_-_i-vp_le &
   [ ORTH < "long", "before" >,
     SYNSEM [ LKEYS.KEYREL.PRED "_long+before_a_1_rel",
+             PHON.ONSET con ] ].
+
+long_live_v1 := v_np_imper_le &
+  [ ORTH < "long", "live" >,
+    SYNSEM [ LKEYS [ KEYREL.PRED "_live_v_xst_rel",
+		     ALTKEYREL.PRED "_long_a_all_rel" ],
              PHON.ONSET con ] ].
 
 long_meas_np := n_-_ad-gr_le &

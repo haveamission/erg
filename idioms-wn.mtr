@@ -4,6 +4,10 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Light adjectives
 ;;
+fall+asleep_idm := v_light_adj_idiom_mtr &  
+  [ INPUT.RELS <! [ PRED "_fall_v_i-chg_rel" ],
+                  [ PRED "_asleep_a_all_rel" ] !> ].
+
 fall+dead_idm := v_light_adj_idiom_mtr &  
   [ INPUT.RELS <! [ PRED "_fall_v_i-chg_rel" ],
                   [ PRED "_dead_a_all_rel" ] !> ].
@@ -250,6 +254,10 @@ keep+track_idm := v_nbar_idiom_mtr &
 keep+watch_idm := v_nbar_idiom_mtr &
   [ INPUT.RELS.LIST < [ PRED "_keep_v_i-pos_rel" ],
                       [ PRED "_watch_n_i-acn_rel" ], ... > ].
+
+leave+home_idm := v_nbar_idiom_mtr &
+  [ INPUT.RELS.LIST < [ PRED "_leave_v_i-mov_rel" ],
+                      [ PRED "_home_n_of-n-loc_rel" ], ... > ].
 
 leave+office_idm := v_nbar_idiom_mtr &
   [ INPUT.RELS.LIST < [ PRED "_leave_v_i-mov_rel" ],
@@ -1473,6 +1481,11 @@ middle+of+town_idm := noun_detless_pp_idiom_mtr &
 
 point+of+view_idm := noun_detless_pp_idiom_mtr &
   [ INPUT.RELS <! [ PRED "_point_n_of-cog_rel" ],
+                  [ PRED "_view_n_of-cog_rel" ],
+                  [ PRED idiom_q_i_rel ] !> ].
+
+point+of+view2_idm := noun_detless_pp_idiom_mtr &
+  [ INPUT.RELS <! [ PRED "_point_n_of-rel_rel" ],
                   [ PRED "_view_n_of-cog_rel" ],
                   [ PRED idiom_q_i_rel ] !> ].
 

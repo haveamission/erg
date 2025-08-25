@@ -1,4 +1,5 @@
 aj_cp_i-all_le := aj_cp_i_lexent.
+aj_cp_i-attr-all_le := aj_cp_i-attr_lexent.
 aj_cp_i-bse-all_le := aj_cp_i-bse_lexent.
 aj_cp_i-bse-prt_le := aj_cp_i-bse_lexent.
 aj_cp_i-fin-all_le := aj_cp_i-fin_lexent.
