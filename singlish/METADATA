@@ -24,14 +24,14 @@
 
 ## Grammar maintainers and contributors
 
-MAINTAINER="DanFlickinger"
-CONTRIBUTORS="DanFlickinger; RobMalouf; EmilyBender; StephanOepen"
+MAINTAINER="Dan Flickinger"
+CONTRIBUTORS="Dan Flickinger; Rob Malouf; Emily Bender; Stephan Oepen; Siew Yeng Chow; Francis Bond"
 CONTACT_EMAIL="erg@delph-in.net"
 
 ## Grammar name and web presence
 ## Note: if SHORT_GRAMMAR_NAME is not defined, the directory name is used.
 
-GRAMMAR_NAME="English Resource Grammar"
+GRAMMAR_NAME="English Resource Grammar (for Singlish)"
 SHORT_GRAMMAR_NAME="erg-singlish"
 WEBSITE="http://www.delph-in.net/erg"
 DEMO_WEBSITE="http://erg.delph-in.net/"

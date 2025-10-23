@@ -31,7 +31,7 @@ CONTACT_EMAIL="erg@delph-in.net"
 ## Grammar name and web presence
 ## Note: if SHORT_GRAMMAR_NAME is not defined, the directory name is used.
 
-GRAMMAR_NAME="English Resource Grammar"
+GRAMMAR_NAME="English Resource Grammar (for dictionary definitions)"
 SHORT_GRAMMAR_NAME="erg-dict"
 WEBSITE="http://www.delph-in.net/erg"
 DEMO_WEBSITE="http://erg.delph-in.net/"
