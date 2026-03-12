@@ -7,7 +7,7 @@ The [English Resource Grammar][] (ERG) is a general-purpose computational gramma
 https://github.com/delph-in/docs/wiki/QuickStart
 
 [English Resource Grammar]: https://github.com/delph-in/docs/wiki/ErgTop
-[LKB]: https://github.com/delph-in/docs/wiki/LkbTop
+[LKB]: https://delph-in.github.io/docs/tools/LkbFos/
 [ACE]: http://sweaglesw.org/linguistics/ace/
 [agree]: https://github.com/delph-in/docs/wiki/AgreeTop
 [MRS]: https://github.com/delph-in/docs/wiki/RmrsTop

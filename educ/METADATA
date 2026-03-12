@@ -96,3 +96,6 @@ ACE_CONFIG_FILE="../ace/config-mal.tdl"
 
 ## Profiles to present with LTDB
 PROFILES=[]
+
+## Example sentences for demo
+EXAMPLES=["these cat would try surprise you."]

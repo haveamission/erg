@@ -97,3 +97,6 @@ ACE_CONFIG_FILE="../ace/config-dict.tdl"
 ## Profiles to present with LTDB, with path relative to location of this file
 TSDB_ROOTS=["../tsdb/gold"]
 PROFILES=["omw"]
+
+## Example sentences for demo
+EXAMPLES=["consume quickly and hungrily"]
