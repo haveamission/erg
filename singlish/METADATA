@@ -34,7 +34,7 @@ CONTACT_EMAIL="https://delphinqa.ling.washington.edu/"
 GRAMMAR_NAME="English Resource Grammar (for Singlish)"
 SHORT_GRAMMAR_NAME="erg-singlish"
 WEBSITE="https://delph-in.github.io/docs/erg/ErgTop/"
-DEMO_WEBSITE="http://delph-in.github.io/delphin-viz/demo/"
+DEMO_WEBSITE="https://compling.upol.cz/ltdb/demo?grm=erg-singlish_2025"
 DOCUMENTATION_URL="https://delph-in.github.io/docs/erg/ErgTop/"
 LICENSE="[https://github.com/delph-in/erg/blob/main/LICENSE]"
 
