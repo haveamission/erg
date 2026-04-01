@@ -36,7 +36,7 @@ SHORT_GRAMMAR_NAME="erg-mal"
 WEBSITE="https://delph-in.github.io/docs/erg/ErgTop/"
 DEMO_WEBSITE="http://delph-in.github.io/delphin-viz/demo/"
 DOCUMENTATION_URL="https://delph-in.github.io/docs/erg/ErgTop/"
-LICENSE="[https://github.com/delph-in/erg/blob/main/LICENSE]"
+LICENSE="MIT"
 
 ## Citation data
 ## If this is not provided, the text of citation.bib or canonical.bib

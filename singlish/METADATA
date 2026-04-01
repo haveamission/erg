@@ -36,7 +36,7 @@ SHORT_GRAMMAR_NAME="erg-singlish"
 WEBSITE="https://delph-in.github.io/docs/erg/ErgTop/"
 DEMO_WEBSITE="https://compling.upol.cz/ltdb/demo?grm=erg-singlish_2025"
 DOCUMENTATION_URL="https://delph-in.github.io/docs/erg/ErgTop/"
-LICENSE="[https://github.com/delph-in/erg/blob/main/LICENSE]"
+LICENSE="MIT"
 
 ## Citation data
 ## If this is not provided, the text of citation.bib or canonical.bib
