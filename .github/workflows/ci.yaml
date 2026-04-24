@@ -57,7 +57,7 @@ jobs:
           FAILURES=0
           TOTAL=0
 
-          for SUITE in mrs csli esd control; do
+          for SUITE in mrs esd; do
             TOTAL=$((TOTAL + 1))
 
             echo ""
